@@ -1,6 +1,6 @@
 # ✈️ FlightAI - Intelligent Flight Search Application
 
-FlightAI is a sophisticated flight search application that automatically extracts travel details from approval emails and provides real-time flight search results with integrated booking capabilities through MakeMyTrip.
+FlightAI is a sophisticated flight search application that automatically extracts travel details from approval emails and provides real-time flight search results with integrated booking capabilities through MakeMyTrip .
 
 ## 🚀 Key Features
 
